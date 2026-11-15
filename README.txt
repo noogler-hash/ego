@@ -1,2 +1,1 @@
-## EGO - Game upload package
-
+## EGO - The Game
